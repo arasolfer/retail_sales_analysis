@@ -16,5 +16,7 @@ El dataset utilizado es el retail-sales de 2023 a 2024, disponible en Kaggle.
 ## Uso
 
 Ejecuta las notebooks en la carpeta `notebooks` para realizar el análisis de los datos.
+
 **Notebook NumpyAnalysis**: contiene un análisis estadístico básico utilizando la libreria numpy.
+
 **Notebook PandasAnalysis**: contiene el análisis estadístico más completo utilizando pandas, numpy, matplotlib y seaborn.
