@@ -20,3 +20,5 @@ Ejecuta las notebooks en la carpeta `notebooks` para realizar el análisis de lo
 **Notebook NumpyAnalysis**: contiene un análisis estadístico básico utilizando la libreria numpy.
 
 **Notebook PandasAnalysis**: contiene el análisis estadístico más completo utilizando pandas, numpy, matplotlib y seaborn.
+
+Un resumen en formato de slides se encuentra en el archivo Retail_Sales_Slides.pptx
